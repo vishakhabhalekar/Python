@@ -1,4 +1,5 @@
 “GESTURE CONTROL MOUSE”
+
 AI Virtual Mouse Control
 Virtual Mouse and Gesture Controller
 This is a Virtual Mouse and Gesture Controller project that allows users to interact with their computer using hand gestures captured by a webcam. It uses the MediaPipe Hands solution for hand tracking and OpenCV for video processing, translating specific hand poses into mouse actions like movement, clicking, and taking screenshots.
