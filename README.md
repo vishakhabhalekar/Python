@@ -70,3 +70,7 @@ Finger State: A small angle (angle<50) typically means the finger is flexed (ben
 Thumb Distance (thumb_index_dist): This is used to differentiate between click/double-click gestures (thumb extended, dist>50) and the screenshot gesture (thumb tucked in, dist<50).
 
 Mouse Movement: The move_mouse function maps the hand's coordinates (from 0 to 1) to the screen's resolution. Note the y-coordinate is scaled by a factor of 1/2 (index_finger_tip.y / 2), which might be an intentional way to limit vertical movement range or compensate for camera perspective.
+
+
+<img width="532" height="407" alt="image" src="https://github.com/user-attachments/assets/dfd37f16-43e5-4e90-8a11-52f16f0eb2d5" />
+
