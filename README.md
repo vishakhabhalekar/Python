@@ -80,4 +80,6 @@ Mouse Movement: The move_mouse function maps the hand's coordinates (from 0 to 1
 <img width="532" height="405" alt="image" src="https://github.com/user-attachments/assets/c0342352-e08d-4ee3-af98-088a8a3b4162" />
 
 
+<img width="535" height="401" alt="image" src="https://github.com/user-attachments/assets/1aa8776e-37cf-4f61-9fa9-0289dd36d40c" />
+
 
